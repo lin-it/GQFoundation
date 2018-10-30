@@ -1,0 +1,6 @@
+framework module GQFoundation {
+  umbrella header "GQFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

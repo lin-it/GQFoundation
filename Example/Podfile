@@ -1,0 +1,15 @@
+use_frameworks!
+
+source "https://github.com/CocoaPods/Specs.git"
+source "https://github.com/lin-it/Specs.git"
+
+target 'GQFoundation_Example' do
+  pod 'GQFoundation', :path => '../'
+  pod 'GQTool'
+
+  target 'GQFoundation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

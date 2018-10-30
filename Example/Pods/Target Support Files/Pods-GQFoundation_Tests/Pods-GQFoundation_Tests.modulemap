@@ -1,0 +1,6 @@
+framework module Pods_GQFoundation_Tests {
+  umbrella header "Pods-GQFoundation_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "GQFoundation",
+  "version": "0.1.0",
+  "summary": "A short description of GQFoundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lin-it/GQFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lin-it": "guoqiang.lin@husor.com"
+  },
+  "source": {
+    "git": "https://github.com/lin-it/GQFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GQFoundation/Classes/**/*",
+  "dependencies": {
+    "libextobjc": [
+
+    ],
+    "GQTool": [
+
+    ]
+  }
+}
